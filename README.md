@@ -63,4 +63,4 @@ Produk ini dibuat sebagai bagian dari tugas pembelajaran AI.
 
 ## 📑 Produk Tambahan
 Saya juga membuat **poster AI di Canva** dan menyimpannya di dalam repository ini.  
-👉 [Klik di sini untuk melihat poster](./poster-ai.png)
+👉 [Klik di sini untuk melihat poster](poster-ai.png)
